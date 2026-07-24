@@ -1,4 +1,4 @@
-# p5js-coding-projects
+# p5.js-coding-projects
 A collection of interactive sketches, games, and experiments created while learning JavaScript.
 
 These projects represent my early exploration of programming, where I experimented with
