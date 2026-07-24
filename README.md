@@ -17,13 +17,13 @@ One of my first coding projects, where I learned how to use variables to create 
 A simulation that explores the use of if() statements and Perlin noise to recreate snowfall and snow accumulation. 
 
 ### Pictures: Howl's Moving Castle
-A project that explores how to load images, use get() function and use a for() to make the picture slowly become muddled
+A project that explores how to load images, using get() function and using a for() loop to make the picture slowly become muddled
 
 ### Audio Visualizer: Unohana's Theme
 A project that explores how to create an audio visualizer using FFT
 
 ### Blockade Game: Nova
-A project where I recreated the classic blockade game with two players. I incoporated syntax I learned from previous project to make the game more interesting as well.
+A project where I recreated the classic blockade game with two players. I incorporated the syntax I learned from previous projects to make the game more interesting as well.
  
 
 ## Technologies
@@ -31,5 +31,8 @@ A project where I recreated the classic blockade game with two players. I incopo
 - JavaScript
 - p5.js
 - HTML/CSS
+
+## p5js collection link
+https://editor.p5js.org/jin133/collections/4WgBYKyBj
 
 
