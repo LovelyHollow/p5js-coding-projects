@@ -30,7 +30,6 @@ A project where I recreated the classic blockade game with two players. I incorp
 
 - JavaScript
 - p5.js
-- HTML/CSS
 
 ## p5.js collection link
 https://editor.p5js.org/jin133/collections/4WgBYKyBj
